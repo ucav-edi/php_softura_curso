@@ -37,9 +37,9 @@ $(document).ready(function (){
                                     'class="btn btn-warning btnModificarEmp">Modificar</button>' +
                                 '<button type="button" data-str_empleado_obj="'+strEmpleadoObj+'"' +
                                     'class="btn btn-danger btnEliminarEmp">Eliminar</button>' +
-                                '<button type="button" class="btn btn-success btnAddDatosContacto"' +
-                                    'data-bs-toggle="modal" data-bs-target="#ModalDatosContacto"' +
-                                    'data-id_empleado="'+empleado.id+'">Agregar Datos Contacto</button>' +
+                                //'<button type="button" class="btn btn-success btnAddDatosContacto"' +
+                                //    'data-bs-toggle="modal" data-bs-target="#ModalDatosContacto"' +
+                                //    'data-id_empleado="'+empleado.id+'">Agregar Datos Contacto</button>' +
                                 '</td>' +
                                 '</tr>';
                         });
